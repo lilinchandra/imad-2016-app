@@ -6,6 +6,7 @@ body {
     background-repeat: no-repeat;
     background-position: center center;
     background-size:100% 70%;
+    background-attachment : fixed;
     height: 225px;
     max-height: none;
 }
