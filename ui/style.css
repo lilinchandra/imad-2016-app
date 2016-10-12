@@ -4,7 +4,7 @@ body {
     min-height: 21.36364rem;
     background-color: #fff;
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: 100% 100%;
     background-size:100% 70%;
     background-attachment : fixed;
     height: 225px;
