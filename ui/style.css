@@ -1,9 +1,15 @@
 body {
     font-family: sans-serif;
     background-image:url('/ui/abb.png');
+    min-height: 21.36364rem;
+    padding-top: 6.5rem;
+    padding-bottom: 3rem;
+    background-color: #fff;
     background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
+    background-position: top;
+    background-size: cover;
+    height: auto;
+    max-height: none;
 }
 .center {
     text-align: center;
