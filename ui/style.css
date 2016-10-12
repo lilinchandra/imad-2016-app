@@ -1,9 +1,9 @@
 body {
     font-family: sans-serif;
-    background-image: white;
+    background-image:url('/ui/abb.png');
     margin-top: 75px;
 }
-
+//url("paper.gif")//
 .center {
     text-align: center;
 }
