@@ -2,13 +2,11 @@ body {
     font-family: sans-serif;
     background-image:url('/ui/abb.png');
     min-height: 21.36364rem;
-    padding-top: 6.5rem;
-    padding-bottom: 3rem;
     background-color: #fff;
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
-    height: auto;
+    height: 225px;
     max-height: none;
 }
 .center {
