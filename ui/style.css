@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-image:url('/ui/abb.png');
+    background-image:url('/ui/abb.png'), url('/ui/Pandora.png');
     min-height: 21.36364rem;
     background-color: #fff;
     background-repeat: no-repeat;
@@ -9,6 +9,7 @@ body {
     background-attachment : fixed;
     height: 225px;
     max-height: none;
+
 }
 .center {
     text-align: center;
