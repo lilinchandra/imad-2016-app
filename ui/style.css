@@ -2,7 +2,8 @@ body {
     font-family: sans-serif;
     background-image:url('/ui/abb.png');
     background-repeat: no-repeat;
-    margin-top: 75px;
+    background-position: right top;
+    background-attachment: fixed;
 }
 .center {
     text-align: center;
